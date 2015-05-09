@@ -1,0 +1,71 @@
+/* ------------------- Button ------------------- */
+.ymButton input {
+    background: #7fa2ca;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #7fa2ca;
+}
+.ymButton input:hover {
+    background: #9cbad6;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #7fa2ca;
+}
+
+.ymbutton-hover input {
+    background: #9cbad6;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #9cbad6;
+}
+/* ------------------- Button ------------------- */
+
+/* ------------------- Calendar ------------------- */
+.ymCalendar table {
+    font-size: 12px;
+    border: 1px #7FA2CA solid;
+    borderSpacing: 0px;
+}
+
+.ymCalendar thead th {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.ymCalendar .ymCalendar-title {
+    height: 30px;
+}
+
+.ymCalendar .ymCalendar-week {
+    font-size: 14px;
+    background: #BDEBEE;
+}
+
+.ymcalender-prev-year, .ymcalender-next-year, .ymcalender-next-month, .ymcalender-prev-month {
+    color: black;
+    font-weight: bolder;
+}
+
+.ymCalendar tbody td {
+    padding: 5px;
+    cursor:pointer;
+}
+
+.ymCalendar  .td-hover {
+    background: #7FA2CA;
+}
+
+.ymCalendar  .cur {
+    border: 1px red dashed;
+}
+
+.ymCalendar  .ymCalendar-weekend {
+    color:red;
+}
+/* ------------------- Calendar ------------------- */
+
+/* ------------------- Dialog ------------------- */
+
+
+
+/* ------------------- Dialog ------------------- */
